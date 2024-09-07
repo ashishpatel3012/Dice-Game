@@ -1,0 +1,27 @@
+
+
+.page2nav{
+    margin-top: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btns{
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: end;
+}
+.page2nav p{
+    /* margin-left: 100px ; */
+}
+.btns button{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    font-size: 1rem;
+    font-weight: 600;
+}
